@@ -7,7 +7,7 @@
 ## 📸 Application Preview
 
 
-![Preview](./ss.png)
+![Preview](./s1.png)
 
 
 ---
