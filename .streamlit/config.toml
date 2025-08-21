@@ -1,0 +1,9 @@
+[theme]
+base = "dark" # Set the default theme to dark
+
+# Custom Dark Theme Colors
+primaryColor = "#7792E3"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
+font = "sans serif"
