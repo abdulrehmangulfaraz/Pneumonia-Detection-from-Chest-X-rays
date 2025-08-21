@@ -60,12 +60,12 @@ models = load_all_models()
 
 # --- Model Info & Explicit Ranking ---
 model_info = {
-    "CNN": {"Accuracy": 0.96, "Type": "Deep Learning"},
-    "Logistic Regression": {"Accuracy": 0.95, "Type": "Linear Model"},
-    "SVM": {"Accuracy": 0.93, "Type": "Linear Model"},
-    "Random Forest": {"Accuracy": 0.92, "Type": "Ensemble"},
-    "KNN k=5": {"Accuracy": 0.88, "Type": "Instance-based"},
-    "Naive Bayes": {"Accuracy": 0.86, "Type": "Probabilistic"}
+    "CNN": {"Accuracy": 0.96, "Type": "Deep Learning (Neural Network)"},
+    "Logistic Regression": {"Accuracy": 0.95, "Type": "Linear Model (Regression-based)"},
+    "SVM": {"Accuracy": 0.93, "Type": "Linear Model (Max-Margin)"},
+    "Random Forest": {"Accuracy": 0.92, "Type": "Ensemble (Decision Trees)"},
+    "KNN k=5": {"Accuracy": 0.88, "Type": "Instance-based (Proximity)"},
+    "Naive Bayes": {"Accuracy": 0.86, "Type": "Probabilistic (Bayes' Theorem)"}
 }
 
 # The single source of truth for conflict resolution.
